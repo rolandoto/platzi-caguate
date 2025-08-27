@@ -19,7 +19,7 @@
     "@types/cors": "2.x",
     "cors": "2.x",
     "isomorphic-unfetch": "3.x",
-    "next": "13",
+    "next": "14",
     "react": "18",
     "react-dom": "18",
     "semantic-ui-css": "2.x",
