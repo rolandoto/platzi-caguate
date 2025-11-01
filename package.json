@@ -20,14 +20,14 @@
     "cors": "2.x",
     "isomorphic-unfetch": "3.x",
     "next": "15",
-    "react": "18",
-    "react-dom": "18",
+    "react": "19",
+    "react-dom": "19",
     "semantic-ui-css": "2.x",
     "semantic-ui-react": "2.x"
   },
   "devDependencies": {
     "@types/node": "16.x",
-    "@types/react": "17.x",
+    "@types/react": "19.x",
     "husky": "7.x",
     "prettier": "2.x",
     "pretty-quick": "3.x",
